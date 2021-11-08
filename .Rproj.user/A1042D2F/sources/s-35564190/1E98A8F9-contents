@@ -1,0 +1,15 @@
+
+# About the project
+
+*Write a short description about the course and add a link to your GitHub repository here. This is an R Markdown (.Rmd) file so you should use R Markdown syntax.*
+
+```{r}
+# This is a so-called "R chunk" where you can write R code.
+
+date()
+
+```
+The text continues here.
+
+# "Hi there! 'i think the course is well designed and instructions are easy to follow. I am doing PhD in molecular medicine, and interested in geting exposure to tools needed for data science research. This course is recommended by my professor Katja Kanninen. Here is the linke to repository" 
+# "https://github.com/shahbaz-ali1/shahbaz-ali1.git"
